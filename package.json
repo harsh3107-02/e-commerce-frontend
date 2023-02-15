@@ -1,5 +1,6 @@
 {
     "name": "amazon-clone",
+    "homepage": "https://harsh3107-02.github.io/e-commerce-frontend/",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
